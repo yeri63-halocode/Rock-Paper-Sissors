@@ -23,6 +23,6 @@ Notes:
 1. The hand gesters used to represent the items in the game are a closed fist (rock), flat hand (paper), and peace sign pointed horizontally (sissors).
 2. An easy way to see who would win is by recalling the game title, "Rock, Paper, Sissors", and the word order. The winner will always be the player who picked the word to the right of the word selected by the other player. Using this schema, Rock would be considered to be to the right of word Sissors.
 
-### mBlock source code
+### mBlock5 source code
 
 ![mBlock5-init](https://github.com/yeri63-halocode/Rock-Paper-Sissors/raw/main/mBlock5-init.png)
