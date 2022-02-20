@@ -4,19 +4,19 @@ Here's a favorite game, played with nothing more than two friends using simple h
 
 The game has 1 of 3 possible outcomes, a win, draw, or loss. The win or loss is based on which item is selected<sup>2</sup>, as each item has the ability to beat, be beaten, or force a draw based on the following rules, rock crushes sissors, sissors cuts paper, and paper wraps rock, all producing a win for the player selecting the 1st item. A draw results when both players pick the same object. 
 
-| Player1 | Player2 | Result                | Winner  |
-| :-:     | :-:     | :-:                   | :-:     |
-| Rock    | Rock    | Draw                  |         |
-| Rock    | Paper   | Paper wraps rock.     | Player2 |
-| Rock    | Sissors | Rock crushes sissors. | Player1 |
-| Paper   | Rock    | Paper wraps rock.     | Player1 |
-| Paper   | Paper   | Draw                  |         |
-| Paper   | Sissors | Sissors cuts paper.   | Player2 |
-| Sissors | Rock    | Rock crushes sissors. | Player2 |
-| Sissors | Paper   | Sissors cuts paper.   | Player1 |
-| Sissors | Sissors | Draw                  |         |
+| Human   | Computer | Result                | Winner   |
+| :-:     | :-:      | :-:                   | :-:      |
+| Rock    | Rock     | Draw                  |          |
+| Rock    | Paper    | Paper wraps rock.     | Computer |
+| Rock    | Sissors  | Rock crushes sissors. | Human    |
+| Paper   | Rock     | Paper wraps rock.     | Human    |
+| Paper   | Paper    | Draw                  |          |
+| Paper   | Sissors  | Sissors cuts paper.   | Computer |
+| Sissors | Rock     | Rock crushes sissors. | Computer |
+| Sissors | Paper    | Sissors cuts paper.   | Human    |
+| Sissors | Sissors  | Draw                  |          |
 
-So the next time you have some time on your hands, but no one to play this game with, consider playing this against the MakeBlock Halocode. You may be pleasantly surprised by the outcome.
+So the next time you have some time on your hands, but no one to play this game with, consider playing this against the Halocode computer. You may be pleasantly surprised by the outcome.
 
 Notes:
 
