@@ -6,15 +6,15 @@ The game has 1 of 3 possible outcomes, a win, draw, or loss. The win or loss is 
 
 Use the table below to see all the possible scenarios when playing against the Halocode computer.
 
-| You     | Computer | Result                | Winner   |
+| You     | Halocode | Result                | Winner   |
 | :-:     | :-:      | :-:                   | :-:      |
 | Rock    | Rock     | Draw                  |          |
-| Rock    | Paper    | Paper wraps rock.     | Computer |
+| Rock    | Paper    | Paper wraps rock.     | Halocode |
 | Rock    | Sissors  | Rock crushes sissors. | You      |
 | Paper   | Rock     | Paper wraps rock.     | You      |
 | Paper   | Paper    | Draw                  |          |
-| Paper   | Sissors  | Sissors cuts paper.   | Computer |
-| Sissors | Rock     | Rock crushes sissors. | Computer |
+| Paper   | Sissors  | Sissors cuts paper.   | Halocode |
+| Sissors | Rock     | Rock crushes sissors. | Halocode |
 | Sissors | Paper    | Sissors cuts paper.   | You      |
 | Sissors | Sissors  | Draw                  |          |
 
